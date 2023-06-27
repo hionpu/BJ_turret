@@ -9,7 +9,6 @@ public class Main {
 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int numberOfCase = Integer.parseInt(br.readLine());
-
 		int[] input = new int[6];
 
 		while ( numberOfCase-- > 0)
