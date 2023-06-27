@@ -21,7 +21,6 @@ public class Main {
 			System.out.println(solution(input));
 		}
 	}
-
 		public static int solution(int[] input){
 			int x1 = input[0];
 			int y1 = input[1];
